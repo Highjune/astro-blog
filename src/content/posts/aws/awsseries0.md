@@ -3,6 +3,7 @@ title: "(AWS시리즈0)"
 pubDatetime: 2020-09-03T20:53:00+09:00
 description: "AWS시리즈(1~n)는 이동욱님이 쓰신 책 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 을 공부하면서 정리한 시리즈다"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

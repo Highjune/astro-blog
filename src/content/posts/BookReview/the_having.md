@@ -3,6 +3,7 @@ title: "더 해빙(이서윤, 홍주연)"
 pubDatetime: 2022-05-26T23:30:00+09:00
 description: "완독 : 2022.05월 ~ 2022.05월 (약 10일) 선물받은 책.(종문이 친구 도형이)"
 tags: ["bookreview"]
+category: "bookreview"
 draft: false
 ---
 

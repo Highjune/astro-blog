@@ -3,6 +3,7 @@ title: "(AWS시리즈1) AWS 회원가입"
 pubDatetime: 2020-09-02T18:00:00+09:00
 description: "AWS 가입을 위해서는 한 가지 필수 준비물이 필요하다. Master 혹은 Visa 카드가 필요하기에 준비 AWS공식사이트 접속 무료 계정 만들기 AWS 계정 정보 등록(이메일 주소, 암호) 영문 주소 입력란에 입력 (계정 유형은 개인 으로) 결제 정보란 입력 Mast…"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

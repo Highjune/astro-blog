@@ -3,6 +3,7 @@ title: "RDB가 데이터에 접근하는 방법"
 pubDatetime: 2023-07-11T22:48:00+09:00
 description: "RDB가 데이터에 접근하는 방법에 대해서 간략히 정리"
 tags: ["database"]
+category: "database"
 draft: false
 ---
 

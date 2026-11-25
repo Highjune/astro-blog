@@ -3,6 +3,7 @@ title: "나의 공간"
 pubDatetime: 2020-08-28T20:05:00+09:00
 description: "드디어 공간이 생겼다. 거의 10년전부터 나만의 블로그 또는 홈페이지를 갖고 싶은 욕망이 있었다."
 tags: ["essay"]
+category: "essay"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "(AWS시리즈8) Travis CI 배포 자동화"
 pubDatetime: 2020-09-19T18:30:00+09:00
 description: "24시간 365일 운영되는 서비스에서 배포 환경 구축은 필수 과제 중 하나 우리 개발자의 코드가 실시간으로 병합되고, 테스트가 수행되는 환경, master 브랜치가 푸시되면 배포가 자동으로 이루어지는 환경을 구축하지 않으면 실수할 여지가 너무 많다."
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

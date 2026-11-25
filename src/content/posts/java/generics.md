@@ -3,6 +3,7 @@ title: "지네릭스"
 pubDatetime: 2020-08-29T20:43:00+09:00
 description: "추가 참고글 st-lab.tistory"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

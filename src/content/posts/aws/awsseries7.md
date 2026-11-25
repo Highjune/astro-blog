@@ -3,6 +3,7 @@ title: "(AWS시리즈7) EC2 서버에 프로젝트 배포"
 pubDatetime: 2020-09-16T17:00:00+09:00
 description: "깃허브에서 코드를 받아올 수 있게 EC2 서버에 git 설치 (윈도우는 putty로) EC2로 접속해서 다음 명령어들 입력"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

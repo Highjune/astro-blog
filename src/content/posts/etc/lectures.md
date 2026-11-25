@@ -3,6 +3,7 @@ title: "강의"
 pubDatetime: 2023-09-24T12:10:00+09:00
 description: "상황에 맞게 우선순위를 잘 고를것 짧은영상 단위면 이동시간에 보기"
 tags: ["etc"]
+category: "etc"
 draft: false
 ---
 

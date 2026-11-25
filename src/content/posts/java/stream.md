@@ -3,6 +3,7 @@ title: "Stream"
 pubDatetime: 2023-06-11T18:37:00+09:00
 description: "데이터 소스란? 컬렉션, 배열 같은 것 표준화된 방법? 이제까지는 Collection FrameWork(List, Set, Map)을 이용해서 다뤄온 것 하지만 반쪽짜리 표준화다. 왜냐하면 list, set은 map과 사용방법이 다르기 때문. 표준화에 실패 하지만 jd…"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

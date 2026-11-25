@@ -3,6 +3,7 @@ title: "(mysql + java) 재귀쿼리로 계층구조 데이터(JSON) 표현(id - 
 pubDatetime: 2021-04-21T17:30:00+09:00
 description: "와 달리 id값을 Integer(Autoincrement)로 두게 되면 id값에 계층구조를 따로 담지 않아도 된다. 하지만 mysql 특성상 query 만으로 구현하기에는 까다롭기에 특정한 지점(편의상 노드라고 표현) 과 그의 자식(자식노드들)은 재귀쿼리로 들고와서 자…"
 tags: ["database"]
+category: "database"
 draft: false
 ---
 

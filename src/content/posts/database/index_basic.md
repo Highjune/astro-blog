@@ -3,6 +3,7 @@ title: "index 개념과 올바른 index 설정법"
 pubDatetime: 2023-09-27T22:19:00+09:00
 description: "index 기본개념"
 tags: ["database"]
+category: "database"
 draft: false
 ---
 

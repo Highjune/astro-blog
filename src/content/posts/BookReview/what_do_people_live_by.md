@@ -3,6 +3,7 @@ title: "사람은 무엇으로 사는가(레프 톨스토이)"
 pubDatetime: 2022-07-08T00:15:00+09:00
 description: "완독 : 2022.07월 ~ 2022.7월 (2주일) 선물 받은 책(2021년 5월쯤 아래나캐스트 회사 다닐 때 정진용 님이 선물주신 책)"
 tags: ["bookreview"]
+category: "bookreview"
 draft: false
 ---
 

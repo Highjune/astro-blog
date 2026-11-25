@@ -3,6 +3,7 @@ title: "개발 관련유념할 것 정리"
 pubDatetime: 2022-12-31T20:44:00+09:00
 description: "이종립님 유명서비스 스타트업 이직하기까지"
 tags: ["etc"]
+category: "etc"
 draft: false
 ---
 

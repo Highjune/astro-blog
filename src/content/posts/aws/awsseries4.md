@@ -3,6 +3,7 @@ title: "(AWS시리즈4) EC2 서버에 접속하기"
 pubDatetime: 2020-09-03T20:00:00+09:00
 description: "생성한 EC2로 접속하는 것 Mac & Linux 2가지 방법이 존재한다"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

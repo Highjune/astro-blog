@@ -3,6 +3,7 @@ title: "Lambda(자바의 정석 3판 책 정리)"
 pubDatetime: 2021-07-29T14:42:00+09:00
 description: "JDK1.8부터 추가됨 람다식의 도입으로 인해 자바는 객체지향언어인 동시에 함수형 언어가 됨"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

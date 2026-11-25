@@ -3,6 +3,7 @@ title: "자바 컨벤션"
 pubDatetime: 2023-04-16T20:43:00+09:00
 description: "자바 컨벤션"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

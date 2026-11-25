@@ -3,6 +3,7 @@ title: "jpa 에서 복합키 설정을 하지 않은 경우 발생하는 문제�
 pubDatetime: 2023-07-13T21:07:00+09:00
 description: "DB에서는 복합키 설정이 되어 있지만 jpa 에서 복합키 설정을 하지 않은 경우"
 tags: ["jpa"]
+category: "jpa"
 draft: false
 ---
 

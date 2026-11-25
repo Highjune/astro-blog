@@ -3,6 +3,7 @@ title: "git(pro git 정리한 것)"
 pubDatetime: 2023-01-17T14:38:00+09:00
 description: "pro git 책 보고 정리한 것 깃허브 README.md 에 정리한 것"
 tags: ["git"]
+category: "git"
 draft: false
 ---
 - pro git 책 보고 정리한 것

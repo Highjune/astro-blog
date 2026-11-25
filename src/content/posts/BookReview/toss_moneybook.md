@@ -3,6 +3,7 @@ title: "토스 머니북"
 pubDatetime: 2024-09-03T17:03:00+09:00
 description: "완독 : 2024.08월 ~ 2024.8월 (2주일)"
 tags: ["bookreview"]
+category: "bookreview"
 draft: false
 ---
 

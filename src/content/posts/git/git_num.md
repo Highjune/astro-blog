@@ -3,6 +3,7 @@ title: "git num"
 pubDatetime: 2023-07-15T15:04:00+09:00
 description: "GUI가 아닌 CLI 로 git을 다룰 때 더 편리한 기능 추가"
 tags: ["git"]
+category: "git"
 draft: false
 ---
 

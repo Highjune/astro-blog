@@ -3,6 +3,7 @@ title: "git stash"
 pubDatetime: 2023-01-18T22:37:00+09:00
 description: "추적 중이지 않은 파일을 같이 저장하려면.(아래 두 명령어는 같다.)"
 tags: ["git"]
+category: "git"
 draft: false
 ---
 

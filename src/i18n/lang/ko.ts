@@ -4,6 +4,7 @@ export default {
   nav: {
     home: "홈",
     posts: "글",
+    categories: "카테고리",
     tags: "태그",
     about: "소개",
     archives: "아카이브",
@@ -39,6 +40,13 @@ export default {
     allRightsReserved: "All rights reserved.",
   },
   pages: {
+    categoryTitle: "카테고리",
+    categoryDesc: "이 카테고리의 글 모음",
+    categoryAll: "전체",
+
+    categoriesTitle: "카테고리",
+    categoriesDesc: "주제별로 나눈 글",
+
     tagTitle: "태그",
     tagDesc: "이 태그가 붙은 글 모음",
 

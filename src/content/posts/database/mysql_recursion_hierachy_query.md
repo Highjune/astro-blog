@@ -3,6 +3,7 @@ title: "(mysql) 재귀쿼리로 계층구조 데이터 표현(id - varchar)"
 pubDatetime: 2021-04-16T17:30:00+09:00
 description: "id에 varchar로 계층구조를 담아서 하지 않고 integer로 설계해서 표현하는 설계방법은 여기로. mysql 기준으로 설명 (오라클은 CONNECT BY PRIOR, START WITH를 사용하여 자신의 ID와 연결된 부모 ID를 찾아가 계층적으로 쿼리결과를 뽑…"
 tags: ["database"]
+category: "database"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "(AWS시리즈9) 무중단 배포"
 pubDatetime: 2020-09-22T01:30:00+09:00
 description: "awsseries8까지 Travis CI를 활용하여 배포 자동화 환경을 구축했다. 하지만 배포하는 동안 애플리케이션이 종료된다는 문제가 남아있다. 긴 기간은 아니지만, 새로운 Jar가 실행되기 전까진 기존 Jar를 종료시켜 놓기 때문에 서비스가 중단된다. 반면 24시간…"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

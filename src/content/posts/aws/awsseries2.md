@@ -3,6 +3,7 @@ title: "(AWS시리즈2) 클라우드(Cloud)와 AWS의 장점"
 pubDatetime: 2020-09-02T15:42:00+09:00
 description: "외부인이 내가 만든 서비스에 접근하려면 24시간 작동하는 서버가 필수이다. 24시간 작동하는 서버에는 3가지 선택지가 있다."
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

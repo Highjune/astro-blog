@@ -3,6 +3,7 @@ title: "TDD란 무엇인가"
 pubDatetime: 2023-04-13T18:00:00+09:00
 description: "Next Step 강의를 들으면서 Tdd에 대해서 제대로 공부하게 되었다. 가장 기본적인 정의이지만 Tdd의 의의에 대해서 설명을 되게 친절하게 헤줘서 정리를 조금씩 해두려고 한다. 참고로 이번 Tdd에서는 JUnit 기반으로 이루어져있다."
 tags: ["TDD"]
+category: "TDD"
 draft: false
 ---
 

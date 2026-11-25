@@ -3,6 +3,7 @@ title: "String 타입을 LocalDateTime으로 변환"
 pubDatetime: 2023-02-18T23:48:00+09:00
 description: "위처럼 받게 되었을 때 LocalDateTime 으로 변환하게 되면 DB 조회시 endDate에 +1를 더해서 아래처럼 계산하면 편하므로 LocalDateTime으로 변환한다."
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

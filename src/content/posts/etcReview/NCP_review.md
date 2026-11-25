@@ -3,6 +3,7 @@ title: "Naver Cloud PlatForm 리뷰"
 pubDatetime: 2024-02-24T14:09:00+09:00
 description: "이용 : 2023년 11월 ~ (현재도 이용중) 디프만 14기의 서비스를 운영하면서 포인트 지원을 받게 되었고 그 후기를 질의응답 느낌으로 남기고자 한다."
 tags: ["etcReview"]
+category: "etcReview"
 draft: false
 ---
 

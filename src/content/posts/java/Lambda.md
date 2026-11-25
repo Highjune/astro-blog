@@ -3,6 +3,7 @@ title: "Lambda"
 pubDatetime: 2022-09-04T21:34:00+09:00
 description: "Java는 OOP 언어인데, JDK1.8 부터 함수형 언어의 기능을 탑재하게 되었다. Big Data를 처리하면서 함수형 언어가 새로 뜨기 시작 Haskell, Scala 등 Python, JS 모두 OOP + 함수형 언어"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

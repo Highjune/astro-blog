@@ -3,6 +3,7 @@ title: "git grep"
 pubDatetime: 2023-01-20T22:37:00+09:00
 description: "--count 옵션은 결과 대신 어떤 파일에서 몇 개나 찾았는지만 알고 싶을 경우"
 tags: ["git"]
+category: "git"
 draft: false
 ---
 

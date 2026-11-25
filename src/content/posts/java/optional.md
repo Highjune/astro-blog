@@ -3,6 +3,7 @@ title: "Optional"
 pubDatetime: 2021-11-02T11:05:00+09:00
 description: "T 타입 객체의 래퍼클래스 - Optional"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

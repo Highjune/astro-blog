@@ -3,6 +3,7 @@ title: "git log"
 pubDatetime: 2023-01-18T22:37:00+09:00
 description: "-n 옵션 최근 것들 중에서 n개만 보여준다."
 tags: ["git"]
+category: "git"
 draft: false
 ---
  

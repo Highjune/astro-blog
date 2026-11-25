@@ -3,6 +3,7 @@ title: "아무튼 계속"
 pubDatetime: 2024-08-11T22:15:00+09:00
 description: "완독 : 2024.07월 ~ 2024.7월 (1주일) 선물 받은 책(2024년 7월 월 퇴사 선물로 혜영이한테 받은 선물)"
 tags: ["bookreview"]
+category: "bookreview"
 draft: false
 ---
 

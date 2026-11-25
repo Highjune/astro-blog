@@ -3,6 +3,7 @@ title: "(AWS시리즈6) AWS RDS"
 pubDatetime: 2020-09-14T16:00:00+09:00
 description: "데이터베이스를 구축하고 EC2 서버와 연동하기. 직접 데이터베이스를 설치하지 않는다. 직접 데이터베이스를 설치해서 다루게 되면 모니터링, 알람, 백업, HA 구성 등을 모두 직접 해야만 하므로 번거롭다. AWS는 위의 작업을 모두 지원하는 관리형 서비스 RDS(Rela…"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

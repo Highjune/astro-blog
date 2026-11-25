@@ -3,6 +3,7 @@ title: "실행 계획"
 pubDatetime: 2023-07-11T22:48:00+09:00
 description: "실행 계획"
 tags: ["database"]
+category: "database"
 draft: false
 ---
 

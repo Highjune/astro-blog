@@ -3,6 +3,7 @@ title: "컨트롤러 이외에서 파라미터 유효성 검증(Validation)"
 pubDatetime: 2023-02-03T23:47:13+09:00
 description: "우리는 컨트롤러단에서 @Valid 로써 필드에 @NotNull, @Size, @Pattern 등을 통해 필드의 유효성을 검증한다. 하지만 경우에 따라 컨트롤러에서 바로 해당 객체를 검증하지 않고 별도로 검증해야 하는 순간들이 있다. 하나의 컨트롤러로 여러 객체들을 받은…"
 tags: ["springboot"]
+category: "springboot"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "TDD with CleanCode 팁"
 pubDatetime: 2023-07-22T01:18:00+09:00
 description: "TDD with cleanCode 공부하면서 정리한 부분들 자세한 내용은 깃허브에 정리해두었다. 자주 보려고 포인트들만 여기 적어 놓음"
 tags: ["TDD"]
+category: "TDD"
 draft: false
 ---
 

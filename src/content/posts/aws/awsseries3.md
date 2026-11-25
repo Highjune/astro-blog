@@ -3,6 +3,7 @@ title: "(AWS시리즈3) EC2 인스턴스 생성하기"
 pubDatetime: 2020-09-02T18:22:00+09:00
 description: "EC2(Elastic Compute Cloud)는 AWS에서 제공하는 성능, 용량 등을 유동적으로 사용할 수 있는 서버 \"AWS에서 리눅스 서버 혹은 윈도우 서버를 사용합니다\" 라고 했을 때의 서버를 지칭 AWS에서 무료로 제공하는 프리티어 플랜에서의 제한 사양이 t2…"
 tags: ["aws"]
+category: "aws"
 draft: false
 ---
 

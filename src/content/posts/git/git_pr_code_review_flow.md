@@ -3,6 +3,7 @@ title: "pull request 통한 리뷰 과정"
 pubDatetime: 2023-04-14T21:14:00+09:00
 description: "NextStep 강의를 들으며 오픈소스에 기여하는 방식의 git flow 를 공부했고, 간단하지만 정리해본다. NextStep git docs"
 tags: ["git"]
+category: "git"
 draft: false
 ---
 

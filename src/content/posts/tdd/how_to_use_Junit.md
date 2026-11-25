@@ -3,6 +3,7 @@ title: "Junit5 사용하기"
 pubDatetime: 2023-04-13T21:54:00+09:00
 description: "TDD를 사용하면서 여러 기본 활용법들을 기록한다.(너무 기본적인 것들은 제외) 나중에 깊게 공부하기 시작하면 각각의 게시물로 나누기 Introduction to AssertJ 문서 를 자주 찾아보자. AssertJ Exception Assertions"
 tags: ["TDD"]
+category: "TDD"
 draft: false
 ---
 

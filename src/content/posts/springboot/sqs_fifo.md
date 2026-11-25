@@ -3,6 +3,7 @@ title: "AWS sqs fifo 사용하기"
 pubDatetime: 2023-04-08T01:47:00+09:00
 description: "참고로 환경은 SpringBoot 버전 2.17, java11"
 tags: ["springboot"]
+category: "springboot"
 draft: false
 ---
 

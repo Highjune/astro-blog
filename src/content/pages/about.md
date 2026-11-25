@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "소개"
 description: "백엔드 개발자 highjune(허강준) 소개"
 ---
 

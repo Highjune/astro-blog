@@ -3,6 +3,7 @@ title: "@Transaction 의 구조, 프록시"
 pubDatetime: 2023-06-11T18:37:00+09:00
 description: "트랜잭션 사용 코드 예시"
 tags: ["springboot"]
+category: "springboot"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "컬렉션 프레임웍"
 pubDatetime: 2020-08-29T20:43:00+09:00
 description: "여러 객체(데이터)를 모아 놓은 것을 의미"
 tags: ["java"]
+category: "java"
 draft: false
 ---
 

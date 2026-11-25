@@ -3,6 +3,7 @@ title: "git diff"
 pubDatetime: 2023-01-18T22:37:00+09:00
 description: "Staging Area와 마지막 커밋 비교"
 tags: ["git"]
+category: "git"
 draft: false
 ---
 

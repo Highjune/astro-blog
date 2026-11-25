@@ -3,6 +3,7 @@ title: "모든개발서적리뷰"
 pubDatetime: 2024-11-03T22:20:00+09:00
 description: "개발 모든 책들 리뷰(2022년 중반부터 자세히) 일단 카테고리화(DB, OS, 언어 등) 으로 분류하지 말고 쌓일 때까지는 하나의 목록 안에 다 넣기(2022.07.16)"
 tags: ["techbookreview"]
+category: "techbookreview"
 draft: false
 ---
 > 개발 모든 책들 리뷰(2022년 중반부터 자세히)
